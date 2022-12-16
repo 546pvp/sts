@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(228, 247, 158);
+  font-family: 'Unbounded', cursive;
+}
+.c {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.maplink {
+  text-align: right;
+  display: inline;
+  margin-right: 15px;
+}
